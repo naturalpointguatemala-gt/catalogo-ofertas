@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-08-31T19:06:49.9441811Z",
+    "generatedAt":  "2026-08-31T19:29:03.5682010Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -1200,6 +1200,11 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR CHURRO OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEIN PHORM 28 SERVIDAS SABOR CHURRO OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE OFERTA.jpeg"
                    },
                    {
                        "name":  "PROTEINA MUTANT WHEY 5LIBRAS VAINILLA OFERTA",
