@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-02T23:27:02.0684343Z",
+    "generatedAt":  "2026-09-02T23:44:53.3909381Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -1130,6 +1130,11 @@
                        "name":  "GANADOR DE PESO BULK MUSCLE XL CHOCOLATE OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/GANADOR DE PESO BULK MUSCLE XL CHOCOLATE OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "GANADOR DE PESO BULK MUSCLE XL VAINILLA OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/GANADOR DE PESO BULK MUSCLE XL VAINILLA OFERTA.jpeg"
                    },
                    {
                        "name":  "GLUTAMINA OFERTA",
