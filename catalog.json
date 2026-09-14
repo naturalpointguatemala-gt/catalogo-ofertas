@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T17:14:46.0448120Z",
+    "generatedAt":  "2026-09-14T17:16:28.1883942Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -620,6 +620,11 @@
                        "name":  "MELENA DE LEON EXTRACTO OFERTA",
                        "folder":  "General",
                        "src":  "images/MELENA DE LEON EXTRACTO OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "MINOXIDIL  60ML KIRLAND OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MINOXIDIL  60ML KIRLAND OFERTA.png"
                    },
                    {
                        "name":  "MORINGA OFERTA",
