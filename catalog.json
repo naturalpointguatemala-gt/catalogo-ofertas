@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-14T19:35:11.3826804Z",
+    "generatedAt":  "2026-09-14T20:42:43.2287854Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -160,6 +160,11 @@
                        "name":  "CARBÓN ACTIVADO OFERTA",
                        "folder":  "General",
                        "src":  "images/CARBÓN ACTIVADO OFERTA.png"
+                   },
+                   {
+                       "name":  "CARDO MARIANO GOTAS  60 ML HORBAACH OFERTA",
+                       "folder":  "General",
+                       "src":  "images/CARDO MARIANO GOTAS  60 ML HORBAACH OFERTA.jpeg"
                    },
                    {
                        "name":  "CARDO MARIANO OFERTA",
