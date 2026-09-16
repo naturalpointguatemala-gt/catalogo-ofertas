@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-16T16:29:31.7943760Z",
+    "generatedAt":  "2026-09-16T16:31:15.3424222Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -115,6 +115,11 @@
                        "name":  "ASTAXANTINA OFERTA",
                        "folder":  "General",
                        "src":  "images/ASTAXANTINA OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/BERBERINA CON CANELA GOTAS 1500MG  60ML ACENTIA LABS OFERTA.jpeg"
                    },
                    {
                        "name":  "BERBERINA OFERTA",
@@ -632,6 +637,11 @@
                        "src":  "images/MELENA DE LEON EXTRACTO OFERTA.jpeg"
                    },
                    {
+                       "name":  "MINOXIDIL  60ML KIRLAND OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MINOXIDIL  60ML KIRLAND OFERTA.jpeg"
+                   },
+                   {
                        "name":  "MORINGA OFERTA",
                        "folder":  "General",
                        "src":  "images/MORINGA OFERTA.png"
@@ -722,6 +732,11 @@
                        "src":  "images/ONE A DAY PRENATAL ADVANCED OFERTA.jpeg"
                    },
                    {
+                       "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER OFERTA.jpeg"
+                   },
+                   {
                        "name":  "ONE A DAY WOMEN 200 TABS OFERTA",
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS OFERTA.jpeg"
@@ -765,6 +780,11 @@
                        "name":  "PROBIOTICOS WOMENS OFERTA",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS WOMENS OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "PROBIÓTICOS NATURE´S BOUNTY  120 TABS. OFERTA",
+                       "folder":  "General",
+                       "src":  "images/PROBIÓTICOS NATURE´S BOUNTY  120 TABS. OFERTA.jpeg"
                    },
                    {
                        "name":  "PROBIÓTICOS PARA MUJERES ZEBORA OFERTA",
@@ -830,6 +850,11 @@
                        "name":  "SHILAJIT ULTRA COMPLEX NP OFERTA",
                        "folder":  "General",
                        "src":  "images/SHILAJIT ULTRA COMPLEX NP OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/SMARTY PANTS MULTIVITAMÍNICO PAR ADOLESCENTES HOMBRES  60 GOMITAS OFERTA.jpeg"
                    },
                    {
                        "name":  "TAURINA OFERTA",
