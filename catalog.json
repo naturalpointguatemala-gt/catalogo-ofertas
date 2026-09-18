@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T22:07:51.6145513Z",
+    "generatedAt":  "2026-09-18T22:12:56.0325335Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -265,6 +265,11 @@
                        "name":  "CLORELLA ORGANICA OFERTA",
                        "folder":  "General",
                        "src":  "images/CLORELLA ORGANICA OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "CLOROFILA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/CLOROFILA OFERTA.jpeg"
                    },
                    {
                        "name":  "CLORURO DE MAGNESIO OFERTA",
