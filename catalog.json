@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-18T19:33:35.9356562Z",
+    "generatedAt":  "2026-09-18T21:18:17.6240994Z",
     "images":  [
                    {
                        "name":  "ABEDUL OFERTA",
@@ -485,6 +485,11 @@
                        "name":  "JABÓN DE ARROZ OFERTA",
                        "folder":  "General",
                        "src":  "images/JABÓN DE ARROZ OFERTA.png"
+                   },
+                   {
+                       "name":  "JABÓN DE CÚRCUMA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/JABÓN DE CÚRCUMA OFERTA.png"
                    },
                    {
                        "name":  "JABÓN DE ROMERO OFERTA",
