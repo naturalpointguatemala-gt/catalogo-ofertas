@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T20:00:25.8156717Z",
+    "generatedAt":  "2026-09-24T20:02:56.9702833Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -465,6 +465,11 @@
                        "name":  "HIERRO 65 MG OFERTA",
                        "folder":  "General",
                        "src":  "images/HIERRO 65 MG OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH OFERTA",
+                       "folder":  "General",
+                       "src":  "images/HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH OFERTA.jpeg"
                    },
                    {
                        "name":  "INOSITOL EL DORADO OFERTA",
@@ -1225,11 +1230,6 @@
                        "name":  "GLUTAMINA OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/GLUTAMINA OFERTA.jpeg"
-                   },
-                   {
-                       "name":  "HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH OFERTA",
-                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
-                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/HYDROXYCUT HARDCORE ELITE  100 CÁPSULAS MUSCLETECH OFERTA.jpeg"
                    },
                    {
                        "name":  "PRE ENTRENO NITRAFLEX  30 SERVIDAS SABOR BLUE RASPBERRY GAT SPORT OFERTA",
