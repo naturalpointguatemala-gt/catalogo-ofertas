@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T00:21:45.3235867Z",
+    "generatedAt":  "2026-09-25T16:38:44.9419097Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1142,6 +1142,11 @@
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA MICRONIZADA  120 SERVIDAS SIN SABOR OPTIMUM NUTRITION OFERTA.jpeg"
                    },
                    {
+                       "name":  "CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA MICRONIZADA  60 SERVIDAS SIN SABOR OPTIMUM NUTRITION OFERTA.jpeg"
+                   },
+                   {
                        "name":  "CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA MONOHIDRATADA  100 SERVIDAS SIN SABOR NUTRICOST OFERTA.jpeg"
@@ -1162,9 +1167,9 @@
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA MUSCLETECH 80 SERVIDAS 400GR OFERTA.jpeg"
                    },
                    {
-                       "name":  "CREATINA NUTREX 60 SERVIDAS OFERTA",
+                       "name":  "CREATINA NUTREX 300  60 SERVIDAS OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
-                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA NUTREX 60 SERVIDAS OFERTA.jpeg"
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA NUTREX 300  60 SERVIDAS OFERTA.jpeg"
                    },
                    {
                        "name":  "CREATINA NUTREX OFERTA",
