@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T23:47:26.3066653Z",
+    "generatedAt":  "2026-09-25T23:48:42.1702874Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -95,6 +95,11 @@
                        "name":  "ASHWAGANDHA AMERICANA OFERTA",
                        "folder":  "General",
                        "src":  "images/ASHWAGANDHA AMERICANA OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "ASHWAGANDHA GOMITAS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ASHWAGANDHA GOMITAS OFERTA.jpeg"
                    },
                    {
                        "name":  "ASHWAGANDHA GOTAS OFERTA",
