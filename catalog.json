@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-24T20:02:56.9702833Z",
+    "generatedAt":  "2026-09-25T00:21:45.3235867Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1095,6 +1095,11 @@
                        "name":  "CREATINA CREAKONG  250 SERVIDAS 1KG OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA CREAKONG  250 SERVIDAS 1KG OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "CREATINA CREAKONG OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA CREAKONG OFERTA.jpeg"
                    },
                    {
                        "name":  "CREATINA DRAGON 30 SERVIDAS OFERTA",
