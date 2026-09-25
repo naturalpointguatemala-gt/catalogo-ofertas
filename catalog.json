@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-09-25T21:19:42.9368590Z",
+    "generatedAt":  "2026-09-25T21:20:51.9554584Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1165,6 +1165,11 @@
                        "name":  "CREATINA MUSCLETECH 80 SERVIDAS 400GR OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA MUSCLETECH 80 SERVIDAS 400GR OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "CREATINA NUTREX 1KG  200 SERVIDAS OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/CREATINA NUTREX 1KG  200 SERVIDAS OFERTA.jpeg"
                    },
                    {
                        "name":  "CREATINA NUTREX 300  60 SERVIDAS OFERTA",
