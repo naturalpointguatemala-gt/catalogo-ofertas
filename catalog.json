@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-01T21:10:32.9748045Z",
+    "generatedAt":  "2026-10-01T21:15:16.7650900Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -492,6 +492,11 @@
                        "src":  "images/INOSITOL EL DORADO OFERTA.jpeg"
                    },
                    {
+                       "name":  "INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT OFERTA",
+                       "folder":  "General",
+                       "src":  "images/INOSITOL MYO \u0026 D-CHIRO POLVO 227GR. DEAL SUPPLEMENT OFERTA.jpeg"
+                   },
+                   {
                        "name":  "INOSITOL OFERTA",
                        "folder":  "General",
                        "src":  "images/INOSITOL OFERTA.jpeg"
@@ -725,6 +730,11 @@
                        "name":  "OMEGA 3 OFERTA",
                        "folder":  "General",
                        "src":  "images/OMEGA 3 OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL OFERTA",
+                       "folder":  "General",
+                       "src":  "images/OMEGA 3 SPORT RESEARCH ALASKAN  90 SOFT GEL OFERTA.jpeg"
                    },
                    {
                        "name":  "OMEGA 3 VIVA NATURALS OFERTA",
