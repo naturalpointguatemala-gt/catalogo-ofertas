@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T21:02:55.5282175Z",
+    "generatedAt":  "2026-10-02T21:05:53.1752071Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1435,6 +1435,11 @@
                        "name":  "PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEIN PHORM 28 SERVIDAS SABOR MILKSHAKE OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE OFERTA",
+                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
+                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR CHOCOLATE OFERTA.jpeg"
                    },
                    {
                        "name":  "PROTEÍNA ANIMAL WHEY  64 SERVIDAS SABOR VAINILLA OFERTA",
