@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-02T16:38:48.5606535Z",
+    "generatedAt":  "2026-10-02T16:41:55.6402482Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -85,11 +85,6 @@
                        "name":  "ARCILLA IMPORTADA OFERTA",
                        "folder":  "General",
                        "src":  "images/ARCILLA IMPORTADA OFERTA.jpeg"
-                   },
-                   {
-                       "name":  "ARGININA OFERTA",
-                       "folder":  "General",
-                       "src":  "images/ARGININA OFERTA.png"
                    },
                    {
                        "name":  "ASHWAGANDHA AMERICANA OFERTA",
@@ -535,6 +530,11 @@
                        "name":  "KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO) OFERTA",
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO) OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "L-ARGININA 500MG  90 CAPS. OFERTA",
+                       "folder":  "General",
+                       "src":  "images/L-ARGININA 500MG  90 CAPS. OFERTA.jpeg"
                    },
                    {
                        "name":  "L-CARNITINA BEBIBLE OFERTA",
