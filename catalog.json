@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-07T21:59:53.7442927Z",
+    "generatedAt":  "2026-10-08T17:52:30.0771340Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -467,6 +467,11 @@
                        "src":  "images/GYMNEMA SYLVESTRE OFERTA.png"
                    },
                    {
+                       "name":  "HAIR, SKIN AND NAILS  140 GOMITAS. NATURE´S BOUNTY ROSADO OFERTA",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  140 GOMITAS. NATURE´S BOUNTY ROSADO OFERTA.jpeg"
+                   },
+                   {
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY OFERTA",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  200 GOMITAS. NARANJA NATURE´S BOUNTY OFERTA.jpeg"
@@ -605,6 +610,11 @@
                        "name":  "MACA OFERTA",
                        "folder":  "General",
                        "src":  "images/MACA OFERTA.png"
+                   },
+                   {
+                       "name":  "MAGNESIO 3 EN 1 POLVO  300 GRAMOS ZEBORA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MAGNESIO 3 EN 1 POLVO  300 GRAMOS ZEBORA OFERTA.jpeg"
                    },
                    {
                        "name":  "MAGNESIO COMPLEX OFERTA",
