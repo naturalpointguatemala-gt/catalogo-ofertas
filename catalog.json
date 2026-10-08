@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-08T17:57:02.6324135Z",
+    "generatedAt":  "2026-10-08T17:58:29.5631740Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -40,6 +40,11 @@
                        "name":  "AGUAJE AMERICANO OFERTA",
                        "folder":  "General",
                        "src":  "images/AGUAJE AMERICANO OFERTA.png"
+                   },
+                   {
+                       "name":  "AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL OFERTA",
+                       "folder":  "General",
+                       "src":  "images/AGUAJE BBP  60 GOMITAS PARAÍSO NATURAL OFERTA.jpeg"
                    },
                    {
                        "name":  "AGUAJE COMPUESTO OFERTA",
