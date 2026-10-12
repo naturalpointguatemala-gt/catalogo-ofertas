@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-12T20:17:58.1430189Z",
+    "generatedAt":  "2026-10-12T20:20:23.7009415Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -657,6 +657,11 @@
                        "src":  "images/MAGNESIO GLICINATO GOLI OFERTA.jpeg"
                    },
                    {
+                       "name":  "MAGNESIO PARA NIÑOS  30 GOMITAS  NATROL KIDS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MAGNESIO PARA NIÑOS  30 GOMITAS  NATROL KIDS OFERTA.jpeg"
+                   },
+                   {
                        "name":  "MAGNESIO SUPER OFERTA",
                        "folder":  "General",
                        "src":  "images/MAGNESIO SUPER OFERTA.jpeg"
@@ -1080,6 +1085,11 @@
                        "name":  "VITEX OFERTA",
                        "folder":  "General",
                        "src":  "images/VITEX OFERTA.png"
+                   },
+                   {
+                       "name":  "YODO GOTAS 150MCG  118ML CARLYLE OFERTA",
+                       "folder":  "General",
+                       "src":  "images/YODO GOTAS 150MCG  118ML CARLYLE OFERTA.jpeg"
                    },
                    {
                        "name":  "YOHIMBE POLVO OFERTA",
