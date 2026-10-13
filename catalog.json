@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:51:21.4927013Z",
+    "generatedAt":  "2026-10-13T16:52:37.2795752Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1090,6 +1090,11 @@
                        "name":  "VITAMINA E 400 IU OFERTA",
                        "folder":  "General",
                        "src":  "images/VITAMINA E 400 IU OFERTA.png"
+                   },
+                   {
+                       "name":  "VITAMINA E 700MG  90 CAPS USO FACIAL OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA E 700MG  90 CAPS USO FACIAL OFERTA.jpeg"
                    },
                    {
                        "name":  "VITAMINA K OFERTA",
