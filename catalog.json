@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-13T16:49:10.7674542Z",
+    "generatedAt":  "2026-10-13T16:51:21.4927013Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1007,6 +1007,11 @@
                        "src":  "images/VENAS Y VARICES LEG VEINS OFERTA.jpeg"
                    },
                    {
+                       "name":  "VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL OFERTA.jpeg"
+                   },
+                   {
                        "name":  "VINAGRE DE MANZANA GOLÍ OFERTA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ OFERTA.jpeg"
@@ -1060,6 +1065,11 @@
                        "name":  "VITAMINA B9 (ACIDO FÓLICO) OFERTA",
                        "folder":  "General",
                        "src":  "images/VITAMINA B9 (ACIDO FÓLICO) OFERTA.png"
+                   },
+                   {
+                       "name":  "VITAMINA C + ZINC + EQUINACEA  60 GOMITAS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA C + ZINC + EQUINACEA  60 GOMITAS OFERTA.jpeg"
                    },
                    {
                        "name":  "VITAMINA C OFERTA",
