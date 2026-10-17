@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T15:45:43.0018449Z",
+    "generatedAt":  "2026-10-17T15:51:50.7890563Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -502,6 +502,16 @@
                        "src":  "images/HAIR, SKIN AND NAILS  140 GOMITAS. NATURE´S BOUNTY ROSADO OFERTA.jpeg"
                    },
                    {
+                       "name":  "HAIR, SKIN AND NAILS  150 SOFTGELS. NATURE´S BOUNTY OFERTA",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  150 SOFTGELS. NATURE´S BOUNTY OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO OFERTA",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS  200 GOMITAS. NATURE´S BOUNTY ROSADO OFERTA.jpeg"
+                   },
+                   {
                        "name":  "HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO OFERTA",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS ADVANCE  200 GOMITAS. NATURE´S BOUNTY MORADO OFERTA.jpeg"
@@ -515,6 +525,11 @@
                        "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY OFERTA",
                        "folder":  "General",
                        "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS NARANJA NATURE´S BOUNTY OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO NATURE´S BOUNTY OFERTA",
+                       "folder":  "General",
+                       "src":  "images/HAIR, SKIN AND NAILS CON BIOTINA  80 GOMITAS ROSADO NATURE´S BOUNTY OFERTA.jpeg"
                    },
                    {
                        "name":  "HEPA REVIVE OFERTA",
@@ -1080,6 +1095,11 @@
                        "name":  "VITAMINA C OFERTA",
                        "folder":  "General",
                        "src":  "images/VITAMINA C OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "VITAMINA D3 CON K2 OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA D3 CON K2 OFERTA.jpeg"
                    },
                    {
                        "name":  "VITAMINA E 1000 UI OFERTA",
