@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-17T15:51:50.7890563Z",
+    "generatedAt":  "2026-10-19T16:15:53.8591121Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -377,11 +377,6 @@
                        "src":  "images/DIENTE DE LEÓN OFERTA.jpeg"
                    },
                    {
-                       "name":  "DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL OFERTA",
-                       "folder":  "General",
-                       "src":  "images/DRENAJE LINFÁTICO 16 EN 1  120ML VENTURE PAL OFERTA.jpeg"
-                   },
-                   {
                        "name":  "ELECTROLITROS LIMON OFERTA",
                        "folder":  "General",
                        "src":  "images/ELECTROLITROS LIMON OFERTA.png"
@@ -677,6 +672,11 @@
                        "src":  "images/MAGNESIO COMPLEX OFERTA.jpeg"
                    },
                    {
+                       "name":  "MAGNESIO EN POLVO CALM  453G SABOR FRAMBUESA Y LIMÓN NATURAL VITALITY OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MAGNESIO EN POLVO CALM  453G SABOR FRAMBUESA Y LIMÓN NATURAL VITALITY OFERTA.jpg"
+                   },
+                   {
                        "name":  "MAGNESIO GLICINATO GOLI OFERTA",
                        "folder":  "General",
                        "src":  "images/MAGNESIO GLICINATO GOLI OFERTA.jpeg"
@@ -732,9 +732,9 @@
                        "src":  "images/MINOXIDIL  60ML KIRLAND OFERTA.jpeg"
                    },
                    {
-                       "name":  "MORINGA OFERTA",
+                       "name":  "MORINGA 500MG  90 CAPS. OFERTA",
                        "folder":  "General",
-                       "src":  "images/MORINGA OFERTA.png"
+                       "src":  "images/MORINGA 500MG  90 CAPS. OFERTA.jpg"
                    },
                    {
                        "name":  "MSM (AZUFRE ORGÁNICO) 500MG  90 CAPS. OFERTA",
@@ -1032,14 +1032,14 @@
                        "src":  "images/VINAGRE DE MANZANA  60 GOMITAS BBP PARAÍSO NATURAL OFERTA.jpeg"
                    },
                    {
+                       "name":  "VINAGRE DE MANZANA 500MG  90 CAPS. OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VINAGRE DE MANZANA 500MG  90 CAPS. OFERTA.jpg"
+                   },
+                   {
                        "name":  "VINAGRE DE MANZANA GOLÍ OFERTA",
                        "folder":  "General",
                        "src":  "images/VINAGRE DE MANZANA GOLÍ OFERTA.jpeg"
-                   },
-                   {
-                       "name":  "VINAGRE DE MANZANA NP OFERTA",
-                       "folder":  "General",
-                       "src":  "images/VINAGRE DE MANZANA NP OFERTA.png"
                    },
                    {
                        "name":  "VITAMINA A (RETINOL) OFERTA",
@@ -1180,6 +1180,11 @@
                        "name":  "ZINC PARA HOMBRES 11 INGREDIENTES OFERTA",
                        "folder":  "General",
                        "src":  "images/ZINC PARA HOMBRES 11 INGREDIENTES OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "ZMAG-T (ZINC , MAGNESIO, B6, BORON)  90 CAPS. GAT SPORT OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ZMAG-T (ZINC , MAGNESIO, B6, BORON)  90 CAPS. GAT SPORT OFERTA.jpg"
                    },
                    {
                        "name":  "AMINO ENERGY FRESA OFERTA",
