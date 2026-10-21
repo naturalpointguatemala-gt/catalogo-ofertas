@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-21T15:26:57.6707613Z",
+    "generatedAt":  "2026-10-21T15:28:49.1057074Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -425,6 +425,11 @@
                        "name":  "GLICEROL LÍQUIDO SANDIA MANZANA VERDE OFERTA",
                        "folder":  "General",
                        "src":  "images/GLICEROL LÍQUIDO SANDIA MANZANA VERDE OFERTA.png"
+                   },
+                   {
+                       "name":  "GLICINATO DE MAGNESIO OFERTA",
+                       "folder":  "General",
+                       "src":  "images/GLICINATO DE MAGNESIO OFERTA.jpeg"
                    },
                    {
                        "name":  "GLUCOSAMINA + CODROITINA + MSM + CURCUMA NATURAL P OFERTA",
