@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-27T19:54:14.9585195Z",
+    "generatedAt":  "2026-10-28T17:29:34.3715502Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -317,6 +317,11 @@
                        "src":  "images/COLA DE CABALLO OFERTA.png"
                    },
                    {
+                       "name":  "COLÁGENO 6,000MG  290 TABS YOUTHEORY OFERTA",
+                       "folder":  "General",
+                       "src":  "images/COLÁGENO 6,000MG  290 TABS YOUTHEORY OFERTA.jpeg"
+                   },
+                   {
                        "name":  "COLÁGENO EN POLVO OFERTA",
                        "folder":  "General",
                        "src":  "images/COLÁGENO EN POLVO OFERTA.jpg"
@@ -350,6 +355,11 @@
                        "name":  "CRANBERRY EXTRACTO CON VITAMINA C OFERTA",
                        "folder":  "General",
                        "src":  "images/CRANBERRY EXTRACTO CON VITAMINA C OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ OFERTA",
+                       "folder":  "General",
+                       "src":  "images/CREATINA MONOHIDRATADA EN GOMITAS  60 UNIDADES GOLÍ OFERTA.jpeg"
                    },
                    {
                        "name":  "CÁSCARA SAGRADA OFERTA",
@@ -425,6 +435,11 @@
                        "name":  "GLICEROL LÍQUIDO SANDIA MANZANA VERDE OFERTA",
                        "folder":  "General",
                        "src":  "images/GLICEROL LÍQUIDO SANDIA MANZANA VERDE OFERTA.png"
+                   },
+                   {
+                       "name":  "GLICINATO DE MAGNESIO 200MG  60 GOMITAS GOLÍ OFERTA",
+                       "folder":  "General",
+                       "src":  "images/GLICINATO DE MAGNESIO 200MG  60 GOMITAS GOLÍ OFERTA.jpeg"
                    },
                    {
                        "name":  "GLICINATO DE MAGNESIO OFERTA",
@@ -590,6 +605,11 @@
                        "name":  "KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO) OFERTA",
                        "folder":  "General",
                        "src":  "images/KIT A CHAMPIONS APPROACH RONNIE COLEMAN   2 FRASCOS DE 120 CAPS (OMEGA 3 \u0026 VITAMÍNICO) OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "KIT PARA CABELLO BIOTINA + COLÁGENO SHAMPOO TRATAMIENTO Y ACONDICIONADOR ACTIVEE OFERTA",
+                       "folder":  "General",
+                       "src":  "images/KIT PARA CABELLO BIOTINA + COLÁGENO SHAMPOO TRATAMIENTO Y ACONDICIONADOR ACTIVEE OFERTA.jpeg"
                    },
                    {
                        "name":  "L-ARGININA 500MG  90 CAPS. OFERTA",
@@ -1132,9 +1152,19 @@
                        "src":  "images/VITEX OFERTA.png"
                    },
                    {
+                       "name":  "VIU COLÁGENO + CALCIO  300GR KIWI FRESA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VIU COLÁGENO + CALCIO  300GR KIWI FRESA OFERTA.jpeg"
+                   },
+                   {
                        "name":  "YODO GOTAS 150MCG  118ML CARLYLE OFERTA",
                        "folder":  "General",
                        "src":  "images/YODO GOTAS 150MCG  118ML CARLYLE OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "YOGGIES PROBIÓTICOS FRESA  30 BOLSAS DE 20G NATURES GARDEN OFERTA",
+                       "folder":  "General",
+                       "src":  "images/YOGGIES PROBIÓTICOS FRESA  30 BOLSAS DE 20G NATURES GARDEN OFERTA.jpeg"
                    },
                    {
                        "name":  "YOHIMBE POLVO OFERTA",
