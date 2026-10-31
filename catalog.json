@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-10-30T17:49:17.8327259Z",
+    "generatedAt":  "2026-10-31T15:37:35.5263213Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1182,11 +1182,6 @@
                        "src":  "images/ZINC 50 MG OFERTA.jpeg"
                    },
                    {
-                       "name":  "ZINC 50MG GNC OFERTA",
-                       "folder":  "General",
-                       "src":  "images/ZINC 50MG GNC OFERTA.jpeg"
-                   },
-                   {
                        "name":  "ZINC OFERTA",
                        "folder":  "General",
                        "src":  "images/ZINC OFERTA.jpeg"
@@ -1565,16 +1560,6 @@
                        "name":  "PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH OFERTA",
                        "folder":  "OFERTA CREATINAS Y PROTEINAS",
                        "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEÍNA BPI ISO HD  70 SERVIDAS 4.93LB SABOR CEREAL CRUNCH OFERTA.jpeg"
-                   },
-                   {
-                       "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE OFERTA - copia",
-                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
-                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE OFERTA - copia.jpeg"
-                   },
-                   {
-                       "name":  "PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE OFERTA",
-                       "folder":  "OFERTA CREATINAS Y PROTEINAS",
-                       "src":  "images/OFERTA CREATINAS Y PROTEINAS/PROTEÍNA CARNIVOR  56 SERVIDAS 4.19LB  MUSCLEMEDS CHOCOLATE OFERTA.jpeg"
                    },
                    {
                        "name":  "PROTEÍNA DRAGON PHARMA WHEY PHORM  52 SERVIDAS 4.08LB SABOR CAPUCHINO OFERTA",
