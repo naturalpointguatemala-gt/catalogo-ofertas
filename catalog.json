@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-02T16:18:12.8388535Z",
+    "generatedAt":  "2026-11-02T18:25:25.8822858Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -785,6 +785,11 @@
                        "name":  "NAC OFERTA",
                        "folder":  "General",
                        "src":  "images/NAC OFERTA.png"
+                   },
+                   {
+                       "name":  "NAD LIPOSOMAL  60 SOFTGELS. OFERTA",
+                       "folder":  "General",
+                       "src":  "images/NAD LIPOSOMAL  60 SOFTGELS. OFERTA.jpeg"
                    },
                    {
                        "name":  "NIACIN VITAMINA B3 NUTRICOST OFERTA",
