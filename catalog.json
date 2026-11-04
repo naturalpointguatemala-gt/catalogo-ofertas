@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-03T22:44:03.9632719Z",
+    "generatedAt":  "2026-11-04T00:00:23.7376988Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1195,6 +1195,11 @@
                        "name":  "ZARZA PARRILLA OFERTA",
                        "folder":  "General",
                        "src":  "images/ZARZA PARRILLA OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "ZINC 50MG GNC OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ZINC 50MG GNC OFERTA.jpeg"
                    },
                    {
                        "name":  "ZINC OFERTA",
