@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-04T00:00:23.7376988Z",
+    "generatedAt":  "2026-11-04T19:26:08.1903762Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -237,6 +237,11 @@
                        "src":  "images/CENTRUM SILVER WOMEN +50  100 TABS. OFERTA.jpeg"
                    },
                    {
+                       "name":  "CENTRUM WOMEN  200 TABS. OFERTA",
+                       "folder":  "General",
+                       "src":  "images/CENTRUM WOMEN  200 TABS. OFERTA.jpeg"
+                   },
+                   {
                        "name":  "CENTRUM WOMEN +50 OFERTA",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN +50 OFERTA.jpeg"
@@ -245,11 +250,6 @@
                        "name":  "CENTRUM WOMEN 170 GOMITAS OFERTA",
                        "folder":  "General",
                        "src":  "images/CENTRUM WOMEN 170 GOMITAS OFERTA.jpeg"
-                   },
-                   {
-                       "name":  "CENTRUM WOMEN 200 TABS OFERTA",
-                       "folder":  "General",
-                       "src":  "images/CENTRUM WOMEN 200 TABS OFERTA.jpeg"
                    },
                    {
                        "name":  "CENTRUM WOMEN MULTIVITAMÍNICO  120 TABS OFERTA",
