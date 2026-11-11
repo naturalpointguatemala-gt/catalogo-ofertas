@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T21:39:42.5954748Z",
+    "generatedAt":  "2026-11-11T21:56:24.2371387Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1135,6 +1135,11 @@
                        "name":  "VITAMINA C OFERTA",
                        "folder":  "General",
                        "src":  "images/VITAMINA C OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "VITAMINA D3 CON K2 OFERTA",
+                       "folder":  "General",
+                       "src":  "images/VITAMINA D3 CON K2 OFERTA.jpeg"
                    },
                    {
                        "name":  "VITAMINA E 1000 UI OFERTA",
