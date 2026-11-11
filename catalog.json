@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-11T19:24:35.6795889Z",
+    "generatedAt":  "2026-11-11T21:39:42.5954748Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -165,6 +165,11 @@
                        "name":  "CALOSTRO OFERTA",
                        "folder":  "General",
                        "src":  "images/CALOSTRO OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "CANDIDA CLEANSE  60 CAPS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/CANDIDA CLEANSE  60 CAPS OFERTA.jpeg"
                    },
                    {
                        "name":  "CANELA 500MG  60 CAPS. OFERTA",
@@ -662,6 +667,11 @@
                        "src":  "images/LIPO 6 BLACK QUEMADOR DE GRASA  120 CAPS NUTREX OFERTA.jpeg"
                    },
                    {
+                       "name":  "LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/LONGJACK TONGKAT ALI  90 CAPS.  FUTUREBIOTICS OFERTA.jpeg"
+                   },
+                   {
                        "name":  "LONJACK NATURAL POINT OFERTA",
                        "folder":  "General",
                        "src":  "images/LONJACK NATURAL POINT OFERTA.jpeg"
@@ -772,6 +782,11 @@
                        "src":  "images/MULTIVITAMÍNICO NUTRICOST CON PROBIÓTICOS OFERTA.jpeg"
                    },
                    {
+                       "name":  "MULTIVITAMÍNICO PARA ADOLESCENTES NIÑAS  60 CAPS CARLYLE OFERTA",
+                       "folder":  "General",
+                       "src":  "images/MULTIVITAMÍNICO PARA ADOLESCENTES NIÑAS  60 CAPS CARLYLE OFERTA.jpeg"
+                   },
+                   {
                        "name":  "MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA OFERTA",
                        "folder":  "General",
                        "src":  "images/MULTIVITAMÍNICO PARA NIÑOS OLLY  70 GUSANITOS DE GOMA OFERTA.jpeg"
@@ -862,6 +877,11 @@
                        "src":  "images/ONE A DAY PRENATAL ADVANCED OFERTA.jpeg"
                    },
                    {
+                       "name":  "ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ONE A DAY SOPORTE PARA MENOPAUSIA  50 TABS BAYER OFERTA.jpeg"
+                   },
+                   {
                        "name":  "ONE A DAY WOMEN 200 TABS OFERTA",
                        "folder":  "General",
                        "src":  "images/ONE A DAY WOMEN 200 TABS OFERTA.jpeg"
@@ -890,6 +910,11 @@
                        "name":  "PROBIOTICOS CANLIST OFERTA",
                        "folder":  "General",
                        "src":  "images/PROBIOTICOS CANLIST OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "PROBIOTICOS PARA MUJERES  90 TABS. ZEBORA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/PROBIOTICOS PARA MUJERES  90 TABS. ZEBORA OFERTA.jpeg"
                    },
                    {
                        "name":  "PROBIOTICOS PARA NIÑOS NATURES WAY OFERTA",
@@ -1182,6 +1207,11 @@
                        "src":  "images/ZARZA PARRILLA OFERTA.jpeg"
                    },
                    {
+                       "name":  "ZINC 50MG  90 CAPS. LIFE EXTENSION OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ZINC 50MG  90 CAPS. LIFE EXTENSION OFERTA.jpeg"
+                   },
+                   {
                        "name":  "ZINC 50MG GNC OFERTA",
                        "folder":  "General",
                        "src":  "images/ZINC 50MG GNC OFERTA.jpeg"
@@ -1190,6 +1220,11 @@
                        "name":  "ZINC OFERTA",
                        "folder":  "General",
                        "src":  "images/ZINC OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "ZINC PICOLINATO 50MG  120 CAPS NOW OFERTA",
+                       "folder":  "General",
+                       "src":  "images/ZINC PICOLINATO 50MG  120 CAPS NOW OFERTA.jpeg"
                    },
                    {
                        "name":  "ZMAG-T (ZINC , MAGNESIO, B6, BORON)  90 CAPS. GAT SPORT OFERTA",
