@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-21T19:51:44.6471377Z",
+    "generatedAt":  "2026-11-21T19:53:05.8782083Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -650,6 +650,11 @@
                        "name":  "L-CARNITINA BEBIBLE OFERTA",
                        "folder":  "General",
                        "src":  "images/L-CARNITINA BEBIBLE OFERTA.jpeg"
+                   },
+                   {
+                       "name":  "L-CARNITINA CAPSULAS OFERTA",
+                       "folder":  "General",
+                       "src":  "images/L-CARNITINA CAPSULAS OFERTA.jpeg"
                    },
                    {
                        "name":  "L-CITRULINA 250G NUTRICOST SIN SABOR OFERTA",
