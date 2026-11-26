@@ -1,5 +1,5 @@
 ﻿{
-    "generatedAt":  "2026-11-26T16:54:30.3637835Z",
+    "generatedAt":  "2026-11-26T17:22:47.0537744Z",
     "images":  [
                    {
                        "name":  "ABEDUL 400MG  60 CAPS. OFERTA",
@@ -1000,6 +1000,11 @@
                        "name":  "RESVERATROL OFERTA",
                        "folder":  "General",
                        "src":  "images/RESVERATROL OFERTA.png"
+                   },
+                   {
+                       "name":  "RHODIOLA OFERTA",
+                       "folder":  "General",
+                       "src":  "images/RHODIOLA OFERTA.png"
                    },
                    {
                        "name":  "SAW PALMETTO OFERTA",
